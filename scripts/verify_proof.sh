@@ -1,1 +1,1 @@
-snarkjs plonk verify verification_key.json $1 $2
+./node_modules/.bin/snarkjs plonk verify verification_key.json $1 $2
