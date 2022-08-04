@@ -1,0 +1,1 @@
+snarkjs plonk verify verification_key.json $1 $2
