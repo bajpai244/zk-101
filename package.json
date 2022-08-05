@@ -8,7 +8,9 @@
     "genKey": "bash ./scripts/generate_keys.sh",
     "genProof": "bash ./scripts/generate_proof.sh",
     "verifyProof": "bash ./scripts/verify_proof.sh",
-    "compile": "bash ./scripts/compile_circuit.sh"
+    "compile": "bash ./scripts/compile_circuit.sh",
+    "genContract":"bash ./scripts/generate_contract.sh",
+    "genCalldata":"bash ./scripts/generate_calldata.sh"
   },
   "keywords": [],
   "author": "",

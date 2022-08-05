@@ -1,0 +1,1 @@
+snarkjs zkey export solidityverifier circuit_final.zkey verifier.sol
